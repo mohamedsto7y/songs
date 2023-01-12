@@ -1,2 +1,7 @@
 happysongs content
+<<<<<<< HEAD
 sadsongs content
+=======
+first happy song
+second happy song
+>>>>>>> happysongs
